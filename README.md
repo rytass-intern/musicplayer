@@ -1,5 +1,7 @@
 # musicplayer
-android 播放器
+ui:https://invis.io/ZX4SO3H4M
+----------------------------------------------------------------------
+<n>android 播放器</n>
 http://blog.tonycube.com/2012/12/mediaplayer.html
 http://developer.android.com/reference/android/media/MediaPlayer.html
 
