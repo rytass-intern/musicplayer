@@ -1,10 +1,6 @@
 package com.example.soslab.musicplayer;
 
 import android.app.Activity;
-
-import android.graphics.Bitmap;
-import android.graphics.Color;
-import android.graphics.drawable.BitmapDrawable;
 import android.media.MediaPlayer;
 
 import android.os.Bundle;
@@ -42,7 +38,7 @@ public class MusicPlayerActivity extends Activity  {
         b2 = (Button) findViewById(R.id.button2);
         b3=(Button)findViewById(R.id.button3);
         b4=(Button)findViewById(R.id.button4);
-        iv=(ImageView)findViewById(R.id.imageView);
+        //iv=(ImageView)findViewById(R.id.imageView);
 
         tx1=(TextView)findViewById(R.id.textView2);
         tx2=(TextView)findViewById(R.id.textView3);
